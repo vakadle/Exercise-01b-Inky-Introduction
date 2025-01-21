@@ -14,4 +14,8 @@ This exercise will demonstrate the following in the example video:
  - Add at least one more conditional
 */
 
-This is our basic story example! Goodbye!
+jsem venku 
+* otevři dveře
+otevřel si dveře
+* uteč
+
